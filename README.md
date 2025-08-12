@@ -35,10 +35,6 @@ mkdir build && cd build
 cmake ..
 make
 
-Run the executable:
-
-    ./SpaceShooter
-
 Controls
 
     Arrow Keys / WASD — Move the spaceship
